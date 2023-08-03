@@ -1,0 +1,1 @@
+INSERT INTO users (user_name, age, gender, creation_date, last_update_date) VALUES ('Sergio Perez Solano', 35, 'H', '2023-07-25', '2023-07-26');
